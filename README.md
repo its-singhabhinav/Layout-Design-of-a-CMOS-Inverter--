@@ -1,5 +1,6 @@
 # Layout Design of a CMOS Inverter
-## It consists of the simulation of a CMOS inverter and its layout design.
+## It consists of the simulation of a CMOS inverter and its layout design. It might be helpful for one who wants to start with Cadence Virtuoso suite.
+
 <p align="justify"> &emsp; Cadence Virtuoso suite is used to design and simulate the CMOS Inverter. The CMOS inverter has one pmos and one nmos; its gate terminals are connected to each other; source of the pmos is connected to vdd and source of the nmos is connected to ground; both the drains are connected to each other and the output is taken at this terminal. The diagramatic representation of the CMOS Inverter is shown in Fig. 1.</p>
 
 <p align="center">
@@ -40,13 +41,20 @@ After pressing okay in Fig. 3, a small window shown in fig. 4 opens. In that win
 Fig. 4 - Attach Library to technology Library
 </p>
 
-Now, again press **file --> new --> cell view**; the window shown in fig. 5 opens.
-
-
+Now, again press **file --> new --> cell view**; the window shown in fig. 5 opens. select the **library file** name **int**, create a **cell name** as **inverter**, set **view** as **schematic** and **type** as **schematic** as shwon in fig. 6.  
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73669849/206874001-79cdc81a-a605-4ca2-a0b0-f45effb04821.JPG" width="500" height="200">
+<img src="https://user-images.githubusercontent.com/73669849/206874359-b1dd83c2-67e5-4449-a1f3-5c266af1dd97.JPG" width="500" height="250">
 </p>
 <p align = "center">
-Fig. 4 - Attach Library to technology Library
+Fig. 5 - Cell View New window
 </p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206874494-404fe975-2f29-4647-84e5-33e52c757673.JPG" width="500" height="250">
+</p>
+<p align = "center">
+Fig. 6 - Cell View New window parameters
+</p>
+
+
