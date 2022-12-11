@@ -106,3 +106,20 @@ Similarly, NMOS is placed in the inteface and the design is completed with wires
 Fig. 11 - CMOS Inverter Schematic
 </p>
 
+The input, output, vdd and gnd pins are connected by clicking the pin symbol ![12  pin symbol](https://user-images.githubusercontent.com/73669849/206898676-9ed92932-1e32-4ef8-856f-6bcd1933eb11.JPG). The window as shown in fig. 12 opens. The direction is input for input pins; output for output pins; and input output for both vdd and gnd. Each pins are created using the cerate pin window; dragged to the right place and clicked to get connected.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206898711-5173b765-5757-4308-8798-9e5937b8dbc3.JPG" width="300" height="300">
+</p>
+<p align = "center">
+Fig. 12 - Create pin window
+</p>
+
+Once the Above steps are completed, the complete schematic diagram as shown in fig. 13 is obtained.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206899016-7a229371-10d1-45da-b784-28c1dd57afc0.JPG" width="300" height="300">
+</p>
+<p align = "center">
+Fig. 13 - Complete Schematic Diagram
+</p>
