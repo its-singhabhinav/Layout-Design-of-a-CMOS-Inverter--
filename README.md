@@ -1,5 +1,6 @@
 # Layout Design of a CMOS Inverter
 ## It consists of the simulation of a CMOS inverter and its layout design. It might be helpful for one who wants to start with Cadence Virtuoso suite.
+## Introduction:
 
 <p align="justify"> &emsp; Cadence Virtuoso suite is used to design and simulate the CMOS Inverter. The CMOS inverter has one pmos and one nmos; its gate terminals are connected to each other; source of the pmos is connected to vdd and source of the nmos is connected to ground; both the drains are connected to each other and the output is taken at this terminal. The diagramatic representation of the CMOS Inverter is shown in Fig. 1.</p>
 
@@ -12,7 +13,7 @@ Fig. 1 - CMOS Inverter
 
 <p align="justify"> &emsp;
   
-### Creating a New Library and Cell View
+## Creating a New Library and Cell View:
   
 First step is to open the Cadence Virtuoso suite and to create a new library.
 
@@ -59,7 +60,7 @@ Fig. 5 - Cell View New window
 Fig. 6 - Cell View New window parameters
 </p>
 
-### Design of a CMOS Inverter Schematic
+## Design of a CMOS Inverter Schematic:
 
 The interface as shown in fig. 7 opens to design a CMOS Inverter.
 
@@ -134,10 +135,9 @@ Fig. 14 - Cellview from cellview
 </p>
 
 The **symbol generation options** window opens where the position of the pins are assigned. The positions as shown in fig. 15 are given and click ok.
-![16  symbol generation objects](https://user-images.githubusercontent.com/73669849/206900149-ff72ea66-b05b-467f-9b3f-b954f800d9de.JPG)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73669849/206900149-ff72ea66-b05b-467f-9b3f-b954f800d9de.JPG" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/73669849/206900149-ff72ea66-b05b-467f-9b3f-b954f800d9de.JPG" width="300" height="250">
 </p>
 <p align = "center">
 Fig. 15 - symbol generation options
@@ -146,9 +146,12 @@ Fig. 15 - symbol generation options
 The symbol as shown in fig. 16 is created.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73669849/206900218-ea4c524f-fb59-44e8-89b8-27a2bbf14b72.JPG" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/73669849/206900218-ea4c524f-fb59-44e8-89b8-27a2bbf14b72.JPG" width="400" height="250">
 </p>
 <p align = "center">
 Fig. 16 - CMOS Inverter Symbol
 </p>
+
+## Simulation of a CMOS Inverter:
+A new window is created using **File --> new --> cellview**. In the new file window the **library** is **Inverter** which is created previously; the **cell name** is **Inverter_test**; **view** is **schematic**; and **type** is **schematic**.
 
