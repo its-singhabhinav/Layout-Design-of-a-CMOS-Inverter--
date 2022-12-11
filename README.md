@@ -88,4 +88,21 @@ The pmos is selected by clicking browse; selecting **library as "ts_018_scl_prim
 Fig. 9 - PMOS Selection
 </p>
 
-The 
+The PMOS is placed in the design interface by clicking on the black window as shown in fig. 10.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206897739-eef3f8c4-b338-457a-81e1-1ab5f73f16a7.JPG" width="200" height="200">
+</p>
+<p align = "center">
+Fig. 10 - PMOS in Design Interface
+</p>
+
+Similarly, NMOS is placed in the inteface and the design is completed with wires as shown in fig. 11.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206898434-699fe521-a5bd-4421-bbe9-d39180e2478a.JPG" width="300" height="300">
+</p>
+<p align = "center">
+Fig. 11 - CMOS Inverter Schematic
+</p>
+
