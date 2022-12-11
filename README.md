@@ -153,5 +153,5 @@ Fig. 16 - CMOS Inverter Symbol
 </p>
 
 ## Simulation of a CMOS Inverter:
-A new window is created using **File --> new --> cellview**. In the new file window the **library** is **Inverter** which is created previously; the **cell name** is **Inverter_test**; **view** is **schematic**; and **type** is **schematic**.
+A new window is created using **File --> new --> cellview**. In the cellview window the **library** is **Inverter** which is created previously; the **cell name** is **Inverter_test**; **view** is **schematic**; and **type** is **schematic**. The symbol created is added into the design interface using **add instance --> library is Inverter --> cell is Inverter --> view is symbol**; the power supply is added using **add instance --> library is analoglib --> cell is vdc --> view is symbol**;
 
