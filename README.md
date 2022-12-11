@@ -178,11 +178,21 @@ click **Setup --> Model Libraries**, the window as shown in fig. 19 opens. Choos
 Fig. 19 - Model Library Window
 </p>
 
-once the model library setting is over, click **Analyses --> choose** in the simulation window. The window shown in fig. 20 opens. Select analyses as **trans** with stop time as **20 ns** and accuarcy defaults as **moderate**.
+Once the model library setting is over, click **Analyses --> choose** in the simulation window. The window shown in fig. 20 opens. Select **analyses** as **trans** with **stop time** as **20 ns** and **accuarcy defaults** as **moderate**.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73669849/206903980-b75d70e9-2d9a-4309-bd11-ccbc103c0d07.JPG" width="400" height="250">
+<img src="https://user-images.githubusercontent.com/73669849/206903980-b75d70e9-2d9a-4309-bd11-ccbc103c0d07.JPG" width="400" height="500">
 </p>
 <p align = "center">
 Fig. 20 - Choose Analyses
+</p>
+
+Then click **Outputs --> to be plotted --> select on design**. Further, the cursor moves to the design where we need to select the input and output pins. Now, press the green play button in the layout window to simulate the design. while the simulation is running, the window as shown in the fig. 21 opens.
+![22  while simulating the following window opens](https://user-images.githubusercontent.com/73669849/206904429-83010080-b469-4df1-80b2-725ab9ec24a4.JPG)
+
+<p align="center">
+<img src="[https://user-images.githubusercontent.com/73669849/206903980-b75d70e9-2d9a-4309-bd11-ccbc103c0d07.JPG](https://user-images.githubusercontent.com/73669849/206904429-83010080-b469-4df1-80b2-725ab9ec24a4.JPG" width="400" height="500">
+</p>
+<p align = "center">
+Fig. 21 - Choose Analyses
 </p>
