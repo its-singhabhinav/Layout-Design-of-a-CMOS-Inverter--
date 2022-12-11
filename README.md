@@ -204,3 +204,5 @@ Once the simulation is over, the simulation output window as shown in fig. 22 op
 <p align = "center">
 Fig. 22 - Simualtion Output window
 </p>
+
+Once the Simulation output is obtained as expected, the layout design of a CMOS Inverter will be done.
