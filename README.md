@@ -12,6 +12,8 @@ Fig. 1 - CMOS Inverter
 
 <p align="justify"> &emsp;
   
+### Creating a New Library and Cell View
+  
 First step is to open the Cadence Virtuoso suite and to create a new library.
 
 <p align="center">
@@ -57,6 +59,8 @@ Fig. 5 - Cell View New window
 Fig. 6 - Cell View New window parameters
 </p>
 
+### Design of a CMOS Inverter Schematic
+
 The interface as shown in fig. 7 opens to design a CMOS Inverter.
 
 <p align="center">
@@ -81,5 +85,5 @@ The pmos is selected by clicking browse; selecting **library as "ts_018_scl_prim
 <img src="https://user-images.githubusercontent.com/73669849/206896719-6ee076e0-8de6-45f4-a4d7-e9eed0c205e1.JPG" width="600" height="400">
 </p>
 <p align = "center">
-Fig. 9 - Pmos Selection
+Fig. 9 - PMOS Selection
 </p>
