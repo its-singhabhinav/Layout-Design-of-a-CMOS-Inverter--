@@ -216,3 +216,21 @@ In the Design Schematic window, click **Launch --> Layout XL**. The startup wind
 <p align = "center">
 Fig. 23 - Layout Startup option
 </p>
+
+The Layout Newfile as shown in fig. 24 opens. **Library** as **Inverter**; **Cell** as **Inverter**; **view** as **layout**; and **Type** as **Layout**.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206906289-37b2ae90-3314-4f8a-aac8-31ea07bbb6b9.JPG" width="250" height="250">
+</p>
+<p align = "center">
+Fig. 24 - Layout NewFile option
+</p>
+
+The layout Suite as shown in fig. 25 opens.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206906547-5140727c-6ed8-4540-b524-7f5363c56e13.JPG" width="250" height="250">
+</p>
+<p align = "center">
+Fig. 24 - Layout Suite
+</p>
