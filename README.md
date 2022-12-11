@@ -160,3 +160,20 @@ A new window is created using **File --> new --> cellview**. In the cellview win
 Fig. 17 - Inverter Simulation Setup
 </p>
 
+After designing the above design for simulation purpose, click **Launch --> ADE L**. The window as shown in fig. 18 opens.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206903384-3e69ec88-88d0-41be-950f-b8c5e504b838.JPG" width="400" height="250">
+</p>
+<p align = "center">
+Fig. 18 - Simulation Window
+</p>
+
+click **Setup --> Model Libraries**, the window as shown in fig. 19 opens. Choose the model file as the file path of the **ts18sl_sci.lib** and section as **tt_18**.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206903630-7bd9b56b-86fe-4cde-a5f4-c6cac209a957.JPG" width="400" height="250">
+</p>
+<p align = "center">
+Fig. 19 - Model Library Window
+</p>
