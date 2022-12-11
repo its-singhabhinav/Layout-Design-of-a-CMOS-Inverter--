@@ -1,8 +1,7 @@
 # Layout Design of a CMOS Inverter
 ## It consists of the simulation of a CMOS inverter and its layout design. It might be helpful for one who wants to start with Cadence Virtuoso suite.
 ## Introduction:
-
-<p align="justify"> &emsp; Cadence Virtuoso suite is used to design and simulate the CMOS Inverter. The CMOS inverter has one pmos and one nmos; its gate terminals are connected to each other; source of the pmos is connected to vdd and source of the nmos is connected to ground; both the drains are connected to each other and the output is taken at this terminal. The diagramatic representation of the CMOS Inverter is shown in Fig. 1.</p>
+Cadence Virtuoso suite is used to design and simulate the CMOS Inverter. The CMOS inverter has one pmos and one nmos; its gate terminals are connected to each other; source of the pmos is connected to vdd and source of the nmos is connected to ground; both the drains are connected to each other and the output is taken at this terminal. The diagramatic representation of the CMOS Inverter is shown in Fig. 1.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73669849/206872969-310954d0-14a0-4432-8b9b-8269a655ce2b.png" width="200" height="300">
@@ -10,8 +9,6 @@
 <p align = "center">
 Fig. 1 - CMOS Inverter
 </p>
-
-<p align="justify"> &emsp;
   
 ## Creating a New Library and Cell View:
   
@@ -35,7 +32,7 @@ The library name **inverter** is given with a technology file setting as **Attac
 Fig. 3 - Library Creation
 </p>
 
-After pressing okay in Fig. 3, a small window shown in fig. 4 opens. In that window, press **ts018_scl_prim** \.
+After pressing okay in Fig. 3, a small window shown in fig. 4 opens. In that window, press **ts018_scl_prim**.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73669849/206895518-58bcd660-2c4e-425d-a83a-12aceeedd3cd.JPG" width="300" height="200">
@@ -153,5 +150,6 @@ Fig. 16 - CMOS Inverter Symbol
 </p>
 
 ## Simulation of a CMOS Inverter:
+
 A new window is created using **File --> new --> cellview**. In the cellview window the **library** is **Inverter** which is created previously; the **cell name** is **Inverter_test**; **view** is **schematic**; and **type** is **schematic**. The symbol created is added into the design interface using **add instance --> library is Inverter --> cell is Inverter --> view is symbol**; the power supply is added using **add instance --> library is analoglib --> cell is vdc --> view is symbol**; the ground is added using **add instance --> library is analoglib --> cell is gnd --> view is symbol**; and the pulse input to check the functionality of the CMOS inverter is added using **add instance --> library is analoglib --> cell is vpulse --> view is symbol**.
 
