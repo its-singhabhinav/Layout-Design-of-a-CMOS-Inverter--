@@ -123,3 +123,32 @@ Once the Above steps are completed, the complete schematic diagram as shown in f
 <p align = "center">
 Fig. 13 - Complete Schematic Diagram
 </p>
+
+The cell view is created by **create --> cellview --> from cellview**, the window as shown in fig. 14 opens; click ok in it. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206899953-01e12335-673f-4da6-9d30-79ac3fa89401.JPG" width="300" height="300">
+</p>
+<p align = "center">
+Fig. 14 - Cellview from cellview
+</p>
+
+The **symbol generation options** window opens where the position of the pins are assigned. The positions as shown in fig. 15 are given and click ok.
+![16  symbol generation objects](https://user-images.githubusercontent.com/73669849/206900149-ff72ea66-b05b-467f-9b3f-b954f800d9de.JPG)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206900149-ff72ea66-b05b-467f-9b3f-b954f800d9de.JPG" width="300" height="300">
+</p>
+<p align = "center">
+Fig. 15 - symbol generation options
+</p>
+
+The symbol as shown in fig. 16 is created.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206900218-ea4c524f-fb59-44e8-89b8-27a2bbf14b72.JPG" width="300" height="300">
+</p>
+<p align = "center">
+Fig. 16 - CMOS Inverter Symbol
+</p>
+
