@@ -229,7 +229,7 @@ Fig. 24 - Layout NewFile option
 The layout Suite as shown in fig. 25 opens.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73669849/206906547-5140727c-6ed8-4540-b524-7f5363c56e13.JPG" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/73669849/206906547-5140727c-6ed8-4540-b524-7f5363c56e13.JPG" width="700" height="500">
 </p>
 <p align = "center">
 Fig. 24 - Layout Suite
