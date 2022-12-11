@@ -177,3 +177,12 @@ click **Setup --> Model Libraries**, the window as shown in fig. 19 opens. Choos
 <p align = "center">
 Fig. 19 - Model Library Window
 </p>
+
+once the model library setting is over, click **Analyses --> choose** in the simulation window. The window shown in fig. 20 opens. Select analyses as **trans** with stop time as **20 ns** and accuarcy defaults as **moderate**.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206903980-b75d70e9-2d9a-4309-bd11-ccbc103c0d07.JPG" width="400" height="250">
+</p>
+<p align = "center">
+Fig. 20 - Choose Analyses
+</p>
