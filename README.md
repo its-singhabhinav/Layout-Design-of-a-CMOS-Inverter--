@@ -87,3 +87,5 @@ The pmos is selected by clicking browse; selecting **library as "ts_018_scl_prim
 <p align = "center">
 Fig. 9 - PMOS Selection
 </p>
+
+The 
