@@ -151,5 +151,12 @@ Fig. 16 - CMOS Inverter Symbol
 
 ## Simulation of a CMOS Inverter:
 
-A new window is created using **File --> new --> cellview**. In the cellview window the **library** is **Inverter** which is created previously; the **cell name** is **Inverter_test**; **view** is **schematic**; and **type** is **schematic**. The symbol created is added into the design interface using **add instance --> library is Inverter --> cell is Inverter --> view is symbol**; the power supply is added using **add instance --> library is analoglib --> cell is vdc --> view is symbol**; the ground is added using **add instance --> library is analoglib --> cell is gnd --> view is symbol**; and the pulse input to check the functionality of the CMOS inverter is added using **add instance --> library is analoglib --> cell is vpulse --> view is symbol**. The necessary connections are given as shown in fig. 17; the value of vdc is adjusted
+A new window is created using **File --> new --> cellview**. In the cellview window the **library** is **Inverter** which is created previously; the **cell name** is **Inverter_test**; **view** is **schematic**; and **type** is **schematic**. The symbol created is added into the design interface using **add instance --> library is Inverter --> cell is Inverter --> view is symbol**; the power supply is added using **add instance --> library is analoglib --> cell is vdc --> view is symbol**; the ground is added using **add instance --> library is analoglib --> cell is gnd --> view is symbol**; and the pulse input to check the functionality of the CMOS inverter is added using **add instance --> library is analoglib --> cell is vpulse --> view is symbol**. The necessary connections are given as shown in fig. 17; the value of vdc (vpulse) is adjusted in the properties by clicking on the vdc (vpulse) and pressing "q". The value of vdc is 1.8 V and vpulse is 1.8 V with time period of 20 ns and pulse width of 10 ns. The pins are connected at the input and output sides to monitor the responses. The complete schematic is shown in fig. 17.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206902920-a63f47c5-0945-4054-8278-04195c407c6c.JPG" width="400" height="250">
+</p>
+<p align = "center">
+Fig. 17 - Inverter Simulation Setup
+</p>
 
