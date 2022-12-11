@@ -206,3 +206,13 @@ Fig. 22 - Simualtion Output window
 </p>
 
 Once the Simulation output is obtained as expected, the layout design of a CMOS Inverter will be done.
+
+## Layout Design of a CMOS inverter
+In the Design Schematic window, click **Launch --> Layout XL**. The startup window as shown in fig. 23 opens. **Layout** option as **create new** and **Configuration** as **Automatic**.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/206905913-f45ee99e-5380-49b7-96c1-2449bddd74dd.JPG" width="250" height="250">
+</p>
+<p align = "center">
+Fig. 23 - Layout Startup option
+</p>
