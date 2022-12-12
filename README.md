@@ -247,7 +247,7 @@ Fig. 26 - Generate Layout
 The layout of the CMOS Inverter without connections as shown in fig. 27 is created. The PMOS transistor layout is in the top; NMOS transistor is in the bottom; and four blue colour pins at the leftmost top indicates the four pins of the CMOS Inverter.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73669849/207062502-cd144f75-7994-4674-abb0-ec7c0eed5c0f.JPG" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/73669849/207062502-cd144f75-7994-4674-abb0-ec7c0eed5c0f.JPG" width="300" height="400">
 </p>
 <p align = "center">
 Fig. 27 - Layout of the CMOS Inverter without connections 
@@ -256,8 +256,18 @@ Fig. 27 - Layout of the CMOS Inverter without connections
 The distance between the PMOS and NMOS is 0.44 scale (Similarly based on the design rules for a particular technology node the distance between each components vary); all the pins are dragged and placed at the right place; all the necessary connections with proper material (metal layer 1, metal layer 2, polysilicon etc) are made. The final layout of the CMOS Inverter with proper connections as shown in fig. 28 is completed.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73669849/207065317-a566f8da-5f87-4ad4-be32-2c77b2d7aeef.JPG" width="400" height="400">
+<img src="https://user-images.githubusercontent.com/73669849/207065317-a566f8da-5f87-4ad4-be32-2c77b2d7aeef.JPG" width="300" height="300">
 </p>
 <p align = "center">
 Fig. 28 - Layout of the CMOS Inverter 
+</p>
+
+## DRC and LVS Check
+Now, the layout is checked with the Design rules of a particular technology node considered. The clean report is generated to procedd further. Layout Suite runs the **Design Rule Check** by clicking **Calibre --> Run nmDRC**. The DRC file path is given in the calibre interaction window and run DRC is clicked as shown in fig. 29.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/207068437-4970a524-621b-4915-962c-0e1401b394e0.JPG" width="500" height="600">
+</p>
+<p align = "center">
+Fig. 29 - Calibre Interaction Window 
 </p>
