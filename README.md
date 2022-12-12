@@ -232,5 +232,23 @@ The layout Suite as shown in fig. 25 opens.
 <img src="https://user-images.githubusercontent.com/73669849/206906547-5140727c-6ed8-4540-b524-7f5363c56e13.JPG" width="700" height="500">
 </p>
 <p align = "center">
-Fig. 24 - Layout Suite
+Fig. 25 - Layout Suite
+</p>
+
+In the layout suite, Click **Connectivity --> Generate --> All from source**. The generate layout window as shown in fig. 26 opens. Uncheck the PR Boundary option and click ok in it.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/207061578-b92187cd-497e-4646-bdb5-afe7085292b4.JPG" width="700" height="500">
+</p>
+<p align = "center">
+Fig. 26 - Generate Layout 
+</p>
+
+The layout of the CMOS Inverter without connections are shown in fig. 27 is created.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/207062502-cd144f75-7994-4674-abb0-ec7c0eed5c0f.JPG" width="700" height="500">
+</p>
+<p align = "center">
+Fig. 27 - Layout of the CMOS Inverter without connections 
 </p>
