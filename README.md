@@ -262,14 +262,24 @@ The distance between the PMOS and NMOS is 0.44 scale (Similarly based on the des
 Fig. 28 - Layout of the CMOS Inverter 
 </p>
 
+The label is given to all the four terminals by clicking **create --> Label**. The **label pattern** as **vdd gdn in out** and **Select layer** as **M1 layer** are given as shown in the fig. 29. The labels are properly mapped with the terminals in the layout.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73669849/207073714-7190564a-7021-4b3d-8ecb-c064061e25f8.JPG" width="300" height="400">
+</p>
+<p align = "center">
+Fig. 29 - Label Creation
+</p>
+
+
 ## DRC and LVS Check
-Now, the layout is checked with the Design rules of a particular technology node considered. The clean report is generated to procedd further. Layout Suite runs the **Design Rule Check** by clicking **Calibre --> Run nmDRC**. The DRC file path is given in the calibre interaction window and run DRC is clicked as shown in fig. 29.
+Now, the layout is checked with the Design rules of a particular technology node considered. The clean report is generated to procedd further. Layout Suite runs the **Design Rule Check** by clicking **Calibre --> Run nmDRC**. The DRC file path is given in the calibre interaction window and run DRC is clicked as shown in fig. 30.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73669849/207068437-4970a524-621b-4915-962c-0e1401b394e0.JPG" width="700" height="450">
 </p>
 <p align = "center">
-Fig. 29 - Calibre Interaction Window 
+Fig. 30 - Calibre Interaction Window 
 </p>
 
-Once the DRC is clean, the Layout Versus Schematic (LVS) is checked by clicking **Calibre --> Run nmLVS**. The LVS file path is given in the calibre interaction window and run LVS is clicked as similar to the DRC.
+Once the DRC is clean, the Layout Versus Schematic (LVS) is checked by clicking **Calibre --> Run nmLVS**. The LVS file path is given in the calibre interaction window and run LVS is clicked as similar to the DRC. The LVS is clean, when the layout and the schematic are similar to each other. 
