@@ -283,3 +283,9 @@ Fig. 30 - Calibre Interaction Window
 </p>
 
 Once the DRC is clean, the Layout Versus Schematic (LVS) is checked by clicking **Calibre --> Run nmLVS**. The LVS file path is given in the calibre interaction window and run LVS is clicked as similar to the DRC. The LVS is clean, when the layout and the schematic are similar to each other. 
+
+## Conclusion:
+Thus, the CMOS inverter is designed and simulated. The layout of the same also completed with a clean DRC and LVS.
+
+## Reference:
+MTES-6203 : Analog Circuit Lab at ABV-Indian Institute of Information Technology and management, Gwalior.
