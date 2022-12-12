@@ -266,8 +266,10 @@ Fig. 28 - Layout of the CMOS Inverter
 Now, the layout is checked with the Design rules of a particular technology node considered. The clean report is generated to procedd further. Layout Suite runs the **Design Rule Check** by clicking **Calibre --> Run nmDRC**. The DRC file path is given in the calibre interaction window and run DRC is clicked as shown in fig. 29.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73669849/207068437-4970a524-621b-4915-962c-0e1401b394e0.JPG" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/73669849/207068437-4970a524-621b-4915-962c-0e1401b394e0.JPG" width="700" height="450">
 </p>
 <p align = "center">
 Fig. 29 - Calibre Interaction Window 
 </p>
+
+Once the DRC is clean, the Layout Versus Schematic (LVS) is checked by clicking **Calibre --> Run nmLVS**. The LVS file path is given in the calibre interaction window and run LVS is clicked as similar to the DRC.
