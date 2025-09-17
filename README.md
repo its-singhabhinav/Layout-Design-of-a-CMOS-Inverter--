@@ -287,5 +287,4 @@ Once the DRC is clean, the Layout Versus Schematic (LVS) is checked by clicking 
 ## Conclusion:
 Thus, the CMOS inverter is designed and simulated. The layout of the same also completed with a clean DRC and LVS.
 
-## Reference:
-MTES-6203 : Analog Circuit Lab at ABV-Indian Institute of Information Technology and management, Gwalior.
+
